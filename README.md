@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to Internet TEchnology Fundamentals</title>
+	<title>Enkhmend</title>
 </head>
 <body>
 	<h1>Welcome to Laboratory 1</h1>
